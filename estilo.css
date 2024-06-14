@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background-image: url(banner-topo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 800px;
+    padding-top: 25%;
+}
+.titulo{
+    border-radius: 12px;
+    background-color: #ecece2ad;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+h1{
+    color: #3d1e4b;
+}
