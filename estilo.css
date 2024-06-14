@@ -12,10 +12,13 @@
 .titulo{
     border-radius: 12px;
     background-color: #ecece2ad;
-    margin-left: 25%;
-    margin-right: 25%;
-    
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 40px;
+    text-align: center;
+    padding: 5%;
 }
 h1{
     color: #3d1e4b;
 }
+
